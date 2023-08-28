@@ -1,0 +1,7 @@
+discord
+requests
+colorama
+discord 
+requests 
+pyfiglet
+pystyle
